@@ -1,50 +1,55 @@
-CitaFinance Open Market Dataset (COMD) v1.0
+# CitaFinance Open Market Dataset (COMD) v1.0
 
-Overview
+## Overview
 
-The CitaFinance Open Market Dataset (COMD) is an open financial datasetcontaining historical Lusaka Securities Exchange (LuSE) equity pricestogether with long-term global commodity price series for copper andcrude oil.
+The CitaFinance Open Market Dataset (COMD) is an open financial dataset
+containing historical Lusaka Securities Exchange (LuSE) equity prices
+together with long-term global commodity price series for copper and
+crude oil.
 
-Contents
+## Contents
 
-data/
-├── luse_equities_2021_2026.csv
-├── copper_usd_1959_2026.csv
-├── crude_oil_usd_1946_2026.csv
-├── companies.csv
-└── sectors.csv
+    data/
+    ├── luse_equities_2021_2026.csv
+    ├── copper_usd_1959_2026.csv
+    ├── crude_oil_usd_1946_2026.csv
+    ├── companies.csv
+    └── sectors.csv
 
-Datasets
+### Datasets
 
-File                          Description
+  File                          Description
+  ----------------------------- ------------------------------------
+  luse_equities_2021_2026.csv   Historical LuSE equity market data
+  copper_usd_1959_2026.csv      Historical Copper (USD) prices
+  crude_oil_usd_1946_2026.csv   Historical Crude Oil (USD) prices
+  companies.csv                 Listed companies metadata
+  sectors.csv                   Sector classifications
 
-luse_equities_2021_2026.csv   Historical LuSE equity market datacopper_usd_1959_2026.csv      Historical Copper (USD) pricescrude_oil_usd_1946_2026.csv   Historical Crude Oil (USD) pricescompanies.csv                 Listed companies metadatasectors.csv                   Sector classifications
+## Use Cases
 
-Use Cases
+-   Quantitative finance
+-   Portfolio analytics
+-   Machine learning
+-   Time-series forecasting
+-   Academic research
+-   Capital market education
 
-Quantitative finance
+## License
 
-Portfolio analytics
+This dataset is released under the Creative Commons Attribution 4.0
+International (CC BY 4.0) License.
 
-Machine learning
+## Citation
 
-Time-series forecasting
+> CitaFinance. (2026). *CitaFinance Open Market Dataset (COMD) v1.0.*
 
-Academic research
+## Disclaimer
 
-Capital market education
+This dataset is provided for research, educational, and analytical
+purposes. Users are responsible for validating the data before using it
+in production or making investment decisions.
 
-License
-
-This dataset is released under the Creative Commons Attribution 4.0International (CC BY 4.0) License.
-
-Citation
-
-CitaFinance. (2026). CitaFinance Open Market Dataset (COMD) v1.0.
-
-Disclaimer
-
-This dataset is provided for research, educational, and analyticalpurposes. Users are responsible for validating the data before using itin production or making investment decisions.
-
-Contact
+## Contact
 
 CitaFinance https://github.com/
