@@ -52,4 +52,4 @@ in production or making investment decisions.
 
 ## Contact
 
-CitaFinance https://github.com/
+simbaraymonds@gmail.com
